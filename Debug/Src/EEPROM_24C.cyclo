@@ -1,0 +1,11 @@
+../Src/EEPROM_24C.c:9:6:EEPROM_Init	1
+../Src/EEPROM_24C.c:21:6:EEPROM_WriteByte	1
+../Src/EEPROM_24C.c:39:6:EEPROM_WritePage	3
+../Src/EEPROM_24C.c:67:6:EEPROM_WriteBlock	2
+../Src/EEPROM_24C.c:91:9:EEPROM_ReadByte_Current	1
+../Src/EEPROM_24C.c:107:9:EEPROM_ReadByte_Random	1
+../Src/EEPROM_24C.c:122:6:EEPROM_ReadPage	3
+../Src/EEPROM_24C.c:150:6:EEPROM_ReadBlock	1
+../Src/EEPROM_24C.c:155:6:EEPROM_EraseByte	1
+../Src/EEPROM_24C.c:160:6:EEPROM_ErasePage	2
+../Src/EEPROM_24C.c:170:6:EEPROM_EraseBlock	1

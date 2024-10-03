@@ -1,0 +1,8 @@
+../Src/I2C.c:3:6:I2C1_Init	4	static
+../Src/I2C.c:28:6:I2C1_Start	4	static
+../Src/I2C.c:35:6:I2C1_SendAddress	16	static
+../Src/I2C.c:54:6:I2C1_SendData	16	static
+../Src/I2C.c:60:6:I2C1_EnableACK	4	static
+../Src/I2C.c:68:6:I2C1_DisableACK	4	static
+../Src/I2C.c:77:9:I2C1_ReadData	16	static
+../Src/I2C.c:88:6:I2C1_Stop	4	static
